@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Contenu du fichier 1
 Modification de fichier
 Encore modifier
+=======
+Contenu du fichier 1
+Modification de fichier
+>>>>>>> Deuxieme_branche
