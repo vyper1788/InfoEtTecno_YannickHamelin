@@ -1,2 +1,2 @@
-Contenu du fichier 1
+Contenu du fichier 1 dans la nouvelle branche
 Modification de fichier
